@@ -1,7 +1,7 @@
 {
     "name": "ichava/icon-sets-remix",
     "description": "3,188 Remix Icon SVGs (pinned to v4.8.0, the last Apache-2.0 release) from Remix-Design/RemixIcon, for Laravel 13 on the Ichava icon ecosystem.",
-    "type": "library",
+    "type": "ichava-icon-set",
     "keywords": [
         "laravel",
         "blade",
@@ -24,9 +24,7 @@
     ],
     "require": {
         "php": "^8.4.1 || ^8.5",
-        "illuminate/support": "^13.0",
-        "ichava/core": "^0.1",
-        "laranail/package-tools": "^0.1.0"
+        "ichava/core": "^0.1"
     },
     "repositories": [
         {
